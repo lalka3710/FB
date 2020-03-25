@@ -1,0 +1,2 @@
+E:\VS\1111\P\Прилож\Прилож\obj\Debug\Прилож.njsprojAssemblyReference.cache
+E:\VS\1111\P\Прилож\Прилож\bin\Microsoft.NodejsTools.WebRole.dll

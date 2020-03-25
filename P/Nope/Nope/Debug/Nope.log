@@ -1,0 +1,30 @@
+﻿  Source.cpp
+E:\VS\1111\P\Nope\Nope\Source.cpp(12,11): error C2131: выражение не определяется константой
+E:\VS\1111\P\Nope\Nope\Source.cpp(12,11): message : сбой вызван чтением переменной вне срока ее существования
+E:\VS\1111\P\Nope\Nope\Source.cpp(12,11): message : см. использование "n"
+E:\VS\1111\P\Nope\Nope\Source.cpp(12,14): error C2131: выражение не определяется константой
+E:\VS\1111\P\Nope\Nope\Source.cpp(12,14): message : сбой вызван чтением переменной вне срока ее существования
+E:\VS\1111\P\Nope\Nope\Source.cpp(12,14): message : см. использование "n"
+E:\VS\1111\P\Nope\Nope\Source.cpp(13,11): error C2131: выражение не определяется константой
+E:\VS\1111\P\Nope\Nope\Source.cpp(13,11): message : сбой вызван чтением переменной вне срока ее существования
+E:\VS\1111\P\Nope\Nope\Source.cpp(13,11): message : см. использование "n"
+E:\VS\1111\P\Nope\Nope\Source.cpp(13,14): error C2131: выражение не определяется константой
+E:\VS\1111\P\Nope\Nope\Source.cpp(13,14): message : сбой вызван чтением переменной вне срока ее существования
+E:\VS\1111\P\Nope\Nope\Source.cpp(13,14): message : см. использование "n"
+E:\VS\1111\P\Nope\Nope\Source.cpp(14,11): error C2131: выражение не определяется константой
+E:\VS\1111\P\Nope\Nope\Source.cpp(14,11): message : сбой вызван чтением переменной вне срока ее существования
+E:\VS\1111\P\Nope\Nope\Source.cpp(14,11): message : см. использование "n"
+E:\VS\1111\P\Nope\Nope\Source.cpp(14,14): error C2131: выражение не определяется константой
+E:\VS\1111\P\Nope\Nope\Source.cpp(14,14): message : сбой вызван чтением переменной вне срока ее существования
+E:\VS\1111\P\Nope\Nope\Source.cpp(14,14): message : см. использование "n"
+E:\VS\1111\P\Nope\Nope\Source.cpp(23,8): warning C4552: ">>": результат выражения не используется
+E:\VS\1111\P\Nope\Nope\Source.cpp(25,15): error C3863: тип массива "double [n][n]" является неназначаемым
+E:\VS\1111\P\Nope\Nope\Source.cpp(26,15): error C3863: тип массива "double [n][n]" является неназначаемым
+E:\VS\1111\P\Nope\Nope\Source.cpp(29,16): error C3863: тип массива "double [n][n]" является неназначаемым
+E:\VS\1111\P\Nope\Nope\Source.cpp(39,20): error C3863: тип массива "double [n][n]" является неназначаемым
+E:\VS\1111\P\Nope\Nope\Source.cpp(40,30): error C3863: тип массива "double [n][n]" является неназначаемым
+E:\VS\1111\P\Nope\Nope\Source.cpp(55,28): error C3863: тип массива "double [n][n]" является неназначаемым
+E:\VS\1111\P\Nope\Nope\Source.cpp(63,40): error C3863: тип массива "double [n][n]" является неназначаемым
+E:\VS\1111\P\Nope\Nope\Source.cpp(73,28): warning C4552: "<<": результат выражения не используется
+E:\VS\1111\P\Nope\Nope\Source.cpp(82,28): warning C4552: "<<": результат выражения не используется
+E:\VS\1111\P\Nope\Nope\Source.cpp(87,1): error C2036: double [n][n]: неизвестный размер

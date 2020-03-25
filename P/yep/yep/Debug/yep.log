@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\VS\1111\P\yep\yep\Source.cpp(15,24): warning C4305: инициализация: усечение из "double" в "float"
+E:\VS\1111\P\yep\yep\Source.cpp(8,6): warning C4101: c: неиспользованная локальная переменная
+E:\VS\1111\P\yep\yep\Source.cpp(9,6): warning C4101: d: неиспользованная локальная переменная
+  yep.vcxproj -> E:\VS\1111\P\yep\Debug\yep.exe
